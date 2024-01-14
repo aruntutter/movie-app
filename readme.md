@@ -1,7 +1,5 @@
 # Movie App - JS-API
 
-Give your project a meaningful name.
-
 ## Table of Contents
 
 - [Links](#links)
