@@ -6,7 +6,6 @@ Give your project a meaningful name.
 
 - [Links](#links)
 - [Description](#description)
-- [Screenshot](#screenshot)
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -16,20 +15,16 @@ Give your project a meaningful name.
 
 ## Links
 
-- Solution URL: [GitHub Repository]()
-- Live Demo: [Live Demo URL]()
+- Solution URL: [GitHub Repository](https://github.com/aruntutter/movie-app)
+- Live Demo: [Live Demo URL](https://vermillion-truffle-b83d27.netlify.app/)
 
 ## Description
 
 This project is a Movie App built using JavaScript and an external API (The Movie Database API). It allows users to discover popular movies and search for specific movies by entering keywords. The app displays movie details such as title, poster image, average vote, and overview.
 
-## Screenshot
-
-![Screenshot 1](screenshots/screenshot1.png)
-
 ## Demo
 
-Include a link to a live demo of your project, if available. You can use services like GitHub Pages, Netlify, or Heroku to host your project.
+live demo of the project: [Live Demo URL](https://vermillion-truffle-b83d27.netlify.app/).
 
 ## Features
 
@@ -48,7 +43,7 @@ Mention the technologies, tools, and frameworks used in your project. For exampl
 
 ## Usage
 
-1. Open the live demo link: [Live Demo URL]().
+1. Open the live demo link: [Live Demo URL](https://vermillion-truffle-b83d27.netlify.app/).
 2. Use the search bar to enter keywords and search for specific movies.
 3. Explore the list of popular movies with details.
 
