@@ -1,4 +1,4 @@
-# Project Name
+# Movie App - JS-API
 
 Give your project a meaningful name.
 
@@ -16,12 +16,12 @@ Give your project a meaningful name.
 
 ## Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/your-repo)
-- Live Demo: [Live Demo URL](https://your-project-live-demo-url.com)
+- Solution URL: [GitHub Repository]()
+- Live Demo: [Live Demo URL]()
 
 ## Description
 
-Provide a brief description of your project, highlighting its main purpose and features.
+This project is a Movie App built using JavaScript and an external API (The Movie Database API). It allows users to discover popular movies and search for specific movies by entering keywords. The app displays movie details such as title, poster image, average vote, and overview.
 
 ## Screenshot
 
@@ -33,7 +33,9 @@ Include a link to a live demo of your project, if available. You can use service
 
 ## Features
 
-List the main features and functionalities of your project. You can use bullet points or a numbered list.
+- Display a list of popular movies with details.
+- Search for movies based on user input.
+- Movie details include title, poster image, average vote, and overview.
 
 ## Technologies Used
 
@@ -41,17 +43,26 @@ Mention the technologies, tools, and frameworks used in your project. For exampl
 
 - HTML
 - CSS
-- Flexbox
 - JavaScript
+- The Movie Database (TMDB) API
 
 ## Usage
 
-Explain how to use your project. You can provide code examples, screenshots, or even GIFs to demonstrate its usage.
+1. Open the live demo link: [Live Demo URL]().
+2. Use the search bar to enter keywords and search for specific movies.
+3. Explore the list of popular movies with details.
 
 ## What I Learned
 
-Share what you learned while working on this project. You can mention any new concepts, techniques, or insights gained through the development process. This section can be valuable for personal reflection and to showcase your growth as a developer.
+- Fetching data from an external API using JavaScript.
+- Dynamically generating and displaying content on the webpage.
+- Handling user input for searching movies.
+- Enhancing user experience with hover effects and transitions.
 
 ## Contributing
 
-Indicate if you're open to contributions and how others can contribute to your project. You can mention things like submitting bug reports, suggesting new features, or submitting pull requests.
+Feel free to contribute to this project by:
+
+- Submitting bug reports.
+- Suggesting new features.
+- Submitting pull requests to improve the codebase.
