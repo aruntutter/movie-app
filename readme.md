@@ -22,7 +22,7 @@ This project is a Movie App built using JavaScript and an external API (The Movi
 
 ## Demo
 
-live demo of the project: [Live Demo URL](https://vermillion-truffle-b83d27.netlify.app/).
+live demo of the project is: [Here](https://vermillion-truffle-b83d27.netlify.app/).
 
 ## Features
 
